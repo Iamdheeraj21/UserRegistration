@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Registration Form</string>
+    <string name="name_text">Name</string>
+    <string name="personNames">Enter Your Name</string>
+    <string name="e_mail_text">E-mail</string>
+    <string name="email">Enter Your Email</string>
+    <string name="gender_text">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="hobbies_text">Hobbies</string>
+    <string name="hobbies">Enter Your Hobbies</string>
+    <string name="whatsapp_text">Whatsapp</string>
+    <string name="mobile">Enter Mobile No.</string>
+    <string name="togglebutton">ToggleButton</string>
+    <string name="submit">SUBMIT</string>
+    <string name="no">NO</string>
+    <string name="yes">YES</string>
+</resources>
